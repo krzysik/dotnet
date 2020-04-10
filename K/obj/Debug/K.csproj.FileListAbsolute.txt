@@ -1,0 +1,8 @@
+C:\Users\KOMPUTER\source\repos\K\K\bin\Debug\K.dll
+C:\Users\KOMPUTER\source\repos\K\K\bin\Debug\K.pdb
+C:\Users\KOMPUTER\source\repos\K\K\obj\Debug\K.csprojAssemblyReference.cache
+C:\Users\KOMPUTER\source\repos\K\K\obj\Debug\K.dll
+C:\Users\KOMPUTER\source\repos\K\K\obj\Debug\K.pdb
+C:\Users\KOMPUTER\source\repos\K\K\obj\Debug\K.Kompo.resources
+C:\Users\KOMPUTER\source\repos\K\K\obj\Debug\K.csproj.GenerateResource.cache
+C:\Users\KOMPUTER\source\repos\K\K\obj\Debug\K.Properties.Resources.resources
